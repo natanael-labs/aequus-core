@@ -23,4 +23,4 @@ We welcome developers, researchers, and peace advocates who align with our princ
 
 Join our Discord community to discuss the project, get help, and collaborate:
 
-🔗 [Discord Invite Link]([https://3nDWsAtxj2](https://discord.com/invite/3nDWsAtxj2))
+🔗 [Discord Invite Link]: https://discord.com/invite/3nDWsAtxj2
