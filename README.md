@@ -18,3 +18,8 @@ Aequus is an open-source protocol using artificial intelligence as primary media
 
 ## Contributing
 We welcome developers, researchers, and peace advocates who align with our principles.
+
+## 💬 Community
+
+Join our Discord community to discuss the project, get help, and collaborate:
+🔗 [Discord Invite Link]((https://discord.gg/3nDWsAtxj2))
